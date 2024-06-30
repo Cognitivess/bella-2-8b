@@ -20,8 +20,7 @@ language:
 ---
 
 <div align="center">
- <img src="[https://github.com/Cognitivess/cognitivess/assets/25981212/05311810-6514-4faf-8a55-88ef247b9289](https://github-production-user-asset-6210df.s3.amazonaws.com/25981212/344454463-05311810-6514-4faf-8a55-88ef247b9289.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240630T090500Z&X-Amz-Expires=300&X-Amz-Signature=3543a9318133fee124e24cb18845bd79f002deff859bdf0a39f1d8cef187599f&X-Amz-SignedHeaders=host&actor_id=25981212&key_id=0&repo_id=822080856)">
-
+ <img src="https://cdn-uploads.huggingface.co/production/uploads/65ec00afa735404e87e1359e/u5qyAgn_2-Bh46nzOFlcI.png">
  <h2>Accessible and portable generative AI solutions for developers and businesses.</h2>
  </div>
 
