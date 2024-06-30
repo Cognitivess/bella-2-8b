@@ -1,23 +1,4 @@
----
-tags:
-- text-generation-inference
-- text-generation
-- Sentiment Analysis
-license: other
-license_name: cognitivess
-license_link: >-
-  https://cognitivess.com/terms
-library_name: transformers
-widget:
-- messages:
-  - role: user
-    content: What is your name?
-datasets:
-- cognitivess/belladata
-language:
-- en
-- ro
----
+
 
 <div align="center">
  <img src="https://cdn-uploads.huggingface.co/production/uploads/65ec00afa735404e87e1359e/u5qyAgn_2-Bh46nzOFlcI.png">
@@ -30,6 +11,8 @@ language:
 The model, built on the transformers architecture, features 8.03 billion parameters , well-suited for a variety of text generation tasks, including question answering, summarization, reasoning, dialogue, sentiment analysis. 
 It employs a floating-point 32 (F32) tensor type for operations, facilitating speech-to-speech applications. 
 Licensed under Cognitivess AI, Bella-1-8b is available on the Hugging Face platform for wide accessibility.
+
+https://huggingface.co/cognitivess/bella-1-8b
 
 
 ***Under the Cognitivess Open Model License, Cognitivess AI confirms:***
